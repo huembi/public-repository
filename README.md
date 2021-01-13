@@ -1,3 +1,3 @@
 # public-repository
 
-public
+public with automerge
